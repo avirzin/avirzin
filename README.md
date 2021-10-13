@@ -24,15 +24,10 @@ During my experience working as Country Head for international acquirer in Brazi
 
 ### Learning
 
-- 
+- [Studying "An Introduction to Statistical Learning"](https://github.com/avirzin/intro-statistical-learning);;
+- [Studying "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://github.com/avirzin/handson-ml);
 - 
 
 ### Personal
 
-- Trying to understand the whole picture about the Theranos investment rounds;
-- 
-
-<!---
-avirzin/avirzin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [Trying to understand the whole picture about the Theranos investment rounds](https://github.com/avirzin/hoverfly);
