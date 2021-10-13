@@ -11,7 +11,7 @@ We experienced a substantial increase in the ou
 
 ![Flapper quotations evolution](/images/quotations.png)
 
-Currently I'm trying how to eVTOLs are spending their battery [here](hoverfly/README.md).
+Currently I'm trying how to eVTOLs are spending their battery [here](https://github.com/avirzin/hoverfly).
 
 ## :credit_card: Fintech solutions in Brazil
 
