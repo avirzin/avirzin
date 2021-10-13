@@ -7,7 +7,7 @@ During this time I developed some auxiliary tools to help to take these decision
 
 During my journey at Flapper (biggest private marketplace of private aviation in Latin America) I developed several scripts to analyze data. Most of them related to how charter flights are requested.
 
-We experienced a substantial increase in the ou
+We experienced a substantial increase in number of quotations so we
 
 ![Flapper quotations evolution](/images/quotations.png)
 
@@ -15,18 +15,17 @@ Currently I'm trying how to eVTOLs are spending their battery [here](https://git
 
 ## :credit_card: Fintech solutions in Brazil
 
-During my experience working as Country Head for international acquirer in Brazil, we had a challenge to find a scalable solution to 
+During my experience working as Country Head for international acquirer in Brazil, we had a challenge to find a scalable solution to perform KYC 
 
-![Flapper quotations evolution](/images/crossborder.png)
+![International Payment Facilitator flow](/images/crossborder.png)
 
 
 ## :jigsaw: Others
 
 ### Learning
 
-- [Studying "An Introduction to Statistical Learning"](https://github.com/avirzin/intro-statistical-learning);;
+- [Studying "An Introduction to Statistical Learning"](https://github.com/avirzin/intro-statistical-learning);
 - [Studying "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://github.com/avirzin/handson-ml);
-- 
 
 ### Personal
 
