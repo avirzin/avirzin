@@ -7,11 +7,12 @@ During this time I developed some auxiliary tools to help to take these decision
 
 During my journey at Flapper (biggest private marketplace of private aviation in Latin America) I developed several scripts to analyze data. Most of them related to how charter flights are requested.
 
-We experienced a substantial increase in number of quotations so we
+We experienced a substantial increase in number of quotations so I developed a project how to use the network effect to improve the quotation accuracy. Unfortunately I didn't have time to integrate this component in our system, but I hope to improve it in future, since this kind of proprietary solution would be strong competitive advantage in the private aviation market.
 
 ![Flapper quotations evolution](/images/quotations.png)
 
-Currently I'm trying how to eVTOLs are spending their battery [here](https://github.com/avirzin/hoverfly).
+Currently I'm studying future eVTOL operation and these are the project that I'm currently working on:
+- [Hoverfly - Visualization of the eVTOL trajectory](https://github.com/avirzin/hoverfly.git).
 
 ## :credit_card:  Fintech solutions in Brazil
 
