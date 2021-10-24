@@ -30,4 +30,4 @@ During my experience working as Country Head for international acquirer in Brazi
 
 ### Personal
 
-- [Trying to understand the whole picture about the Theranos investment rounds](https://github.com/avirzin/hoverfly);
+- [Trying to understand the whole picture about the Theranos investment rounds](https://github.com/avirzin/bloodrop);
