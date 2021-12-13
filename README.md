@@ -12,7 +12,9 @@ We experienced a substantial increase in number of quotations so I developed a p
 ![Flapper quotations evolution](/images/quotations.png)
 
 Currently I'm studying future eVTOL operation and these are the project that I'm currently working on:
-- [Hoverfly - Visualization of the eVTOL trajectory](https://github.com/avirzin/hoverfly.git).
+- [Hoverfly - Visualization of the eVTOL trajectory](https://github.com/avirzin/hoverfly.git):
+
+![Alt Text](/images/hoverfly.gif)
 
 ## :credit_card:  Fintech solutions in Brazil
 
