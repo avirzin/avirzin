@@ -20,9 +20,6 @@ Currently I'm studying future eVTOL operation and these are the project that I'm
 
 During my experience working as Country Head for international acquirer in Brazil, we had a challenge to find a scalable solution to perform KYC
 
-
-Building the whole structure for settlement was particularly challenging.(1)Card brand started settling funds to acquirer that has to deduct the all taxes and fees and settle daily to (2)local merchants and longer periods for (3)crossborder operation that passes through internation payment facilitator company. (4)The major pain point related to Brazilian currency floating (it was the most devaluated currency in 2020) when performing FX transaction was solved. (5)After successful crossborder remittance the funds are settled on the foreign account of the international merchant.
-
 ![International Payment Facilitator flow](/images/crossborder.png)
 
 
