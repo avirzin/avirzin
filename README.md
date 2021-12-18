@@ -18,7 +18,14 @@ Currently I'm studying future eVTOL operation and these are the project that I'm
 
 ## :credit_card:  Fintech solutions in Brazil
 
-During my experience working as Country Head for international acquirer in Brazil, we had a challenge to find a scalable solution to perform KYC
+When you are operating with payments capture in Brazil and want to send them abroad to settle the funds abroad, it is necessary identify each transaction (according to [Law]). This kind of activity requires several information from final user and a proper implementation of KYC policy. The main flow looks like this:
+
+[Flow diagram]
+
+- A third party solution was required to validate CPF parameter (Brazilian social security number);
+- Several other triggers were included to validate if transactions are valid to send abroad. 
+
+Unfortunately this script is private and can't be available publicly for several reasons.
 
 ![International Payment Facilitator flow](/images/crossborder.png)
 
