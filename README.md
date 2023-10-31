@@ -32,11 +32,6 @@ Unfortunately this script is private and can't be available publicly for several
 
 ## :jigsaw:  Others
 
-### Learning
-
-- [Studying "An Introduction to Statistical Learning"](https://github.com/avirzin/intro-statistical-learning);
-- [Studying "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://github.com/avirzin/handson-ml);
-
 ### Personal
 
 - [Trying to understand the whole picture about the Theranos investment rounds](https://github.com/avirzin/bloodrop);
