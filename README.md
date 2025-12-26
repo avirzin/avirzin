@@ -15,9 +15,17 @@ As part of my blockchain development learning at Alchemy University, I'm working
 
 Inspired by Google's AI courses, this project is an attempt to implement an agent that leverages Google AI tools to help solve payment dispute problems. It's an ongoing exploration at the intersection of AI and fintech.
 
-## :globe_with_meridians: Personal Website
+## :art: One-pager websites
 
-Besides these projects, I also maintain a couple of basic static websites hosted on S3 Buckets, showcasing some of our projects and serving as a public-facing portfolio.
+I also maintain a couple of basic static websites hosted on S3 Buckets, showcasing some of our projects and serving as a public-facing portfolio.
+
+<table>
+  <tr>
+    <td><img src="./images/sc_virzin.png" alt="Virzin website" width="400"/></td>
+    <td><img src="./images/sc_mansarda.png" alt="Virzin website" width="400"/></td>
+  </tr>
+</table>
+
 
 ## :chart_with_upwards_trend: Studying Quantitative Trading
 
