@@ -1,37 +1,43 @@
 # About Me
 
-I started my career as software developer, but last four years I'm more envolved in the strategic decisions related to the companies where I worked.
-During this time I developed some auxiliary tools to help to take these decisions. Unfortunately these repositories are private, so I just can share some part of the information briefly.
+![Retrofuturistic guy coding](/images/retro_guy_working.png)
+
+Although my current role revolves around analyzing and specifying products as well as handling operational tasks, software development remains one of my biggest passions. In my free time, I dedicate myself to personal projects, either to learn something new or to experiment with technologies and solutions that can improve the projects I’m currently involved in.
+
+It is important to note that several of my repositories are private due to the sensitive nature of the data and intellectual property involved. As such, some projects are referenced in this document solely for illustrative purposes and cannot be shared publicly.
+
+
+## :crystal_ball: Alchemy University Final Project
+
+As part of my blockchain development learning at Alchemy University, I'm working on a conclusion project demonstrating how investments could work in Web3 using an Oracle for real-world data. This is giving me hands-on experience with smart contracts and decentralized applications.
+
+## :robot: Google AI Agent
+
+Inspired by Google's AI courses, this project is an attempt to implement an agent that leverages Google AI tools to help solve payment dispute problems. It's an ongoing exploration at the intersection of AI and fintech.
+
+## :globe_with_meridians: Personal Website
+
+Besides these projects, I also maintain a couple of basic static websites hosted on S3 Buckets, showcasing some of our projects and serving as a public-facing portfolio.
+
+## :chart_with_upwards_trend: Studying Quantitative Trading
+
+I'm revisiting my knowledge of mathematics and quantitative finance by following a comprehensive Udemy course on quantitative trading. This helps me understand modern trading techniques and financial modeling.
+
+## :moneybag: Rampart Capital
+
+I'm also experimenting with different investment strategies and portfolio management as part of the Rampart Capital initiative. This project is focused on hands-on experience with investments and learning through practical application.
+
+## :coin: Safra Stablecoin
+
+While details are confidential, I've been involved with the Safra Stablecoin project—a private initiative focused on stablecoins. My main interest has been to understand the underlying data behaviors and patterns within stablecoin ecosystems, which inform better architecture and risk controls in blockchain-based financial products.
+
 
 ## :flying_saucer:  Aerial Mobility
 
-During my journey at Flapper (biggest private marketplace of private aviation in Latin America) I developed several scripts to analyze data. Most of them related to how charter flights are requested.
-
-We experienced a substantial increase in number of quotations so I developed a project how to use the network effect to improve the quotation accuracy. Unfortunately I didn't have time to integrate this component in our system, but I hope to improve it in future, since this kind of proprietary solution would be strong competitive advantage in the private aviation market.
+During my time at Flapper (the largest private aviation marketplace in Latin America), I focused on data analysis and operational insights, utilizing tools such as Mapbox and Dec.gl. My work included analyzing charter flight requests and identifying trends.
 
 ![Flapper quotations evolution](/images/quotations.png)
 
-Currently I'm studying future eVTOL operation and these are the project that I'm currently working on:
-- [Hoverfly - Visualization of the eVTOL trajectory](https://github.com/avirzin/hoverfly.git):
+At some point, I've been exploring future eVTOL operations through projects like Hoverfly, which visualizes eVTOL trajectories:
 
 ![Hoverfly animation](/images/hoverfly.gif)
-
-## :credit_card:  Fintech solutions in Brazil
-
-When you are operating with payments capture in Brazil and want to send them abroad to settle the funds abroad, it is necessary identify each transaction (according to [Law]). This kind of activity requires several information from final user and a proper implementation of KYC policy. The main flow looks like this:
-
-[Flow diagram]
-
-- A third party solution was required to validate CPF parameter (Brazilian social security number);
-- Several other triggers were included to validate if transactions are valid to send abroad. 
-
-Unfortunately this script is private and can't be available publicly for several reasons.
-
-![International Payment Facilitator flow](/images/crossborder.png)
-
-
-## :jigsaw:  Others
-
-### Personal
-
-- [Trying to understand the whole picture about the Theranos investment rounds](https://github.com/avirzin/bloodrop);
