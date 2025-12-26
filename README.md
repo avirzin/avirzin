@@ -1,15 +1,15 @@
 # About Me
 
-![Retrofuturistic guy coding](/images/retro_guy_working.png)
+<img src="./images/retro_guy_working.png" alt="Retrofuturistic guy coding" width="800"/>
 
 Although my current role revolves around analyzing and specifying products as well as handling operational tasks, software development remains one of my biggest passions. In my free time, I dedicate myself to personal projects, either to learn something new or to experiment with technologies and solutions that can improve the projects I’m currently involved in.
 
 It is important to note that several of my repositories are private due to the sensitive nature of the data and intellectual property involved. As such, some projects are referenced in this document solely for illustrative purposes and cannot be shared publicly.
 
 
-## :crystal_ball: Alchemy University Final Project
+## :test_tube: Alchemy University Final Project
 
-As part of my blockchain development learning at Alchemy University, I'm working on a conclusion project demonstrating how investments could work in Web3 using an Oracle for real-world data. This is giving me hands-on experience with smart contracts and decentralized applications.
+As part of my blockchain development learning at Alchemy University, I'm working on a [conclusion project](https://github.com/avirzin/Rendex) demonstrating how investments could work in Web3 using an Oracle for real-world data. This is giving me hands-on experience with smart contracts and decentralized applications.
 
 ## :robot: Google AI Agent
 
@@ -27,14 +27,10 @@ I'm revisiting my knowledge of mathematics and quantitative finance by following
 
 I'm also experimenting with different investment strategies and portfolio management as part of the Rampart Capital initiative. This project is focused on hands-on experience with investments and learning through practical application.
 
-## :coin: Safra Stablecoin
-
-While details are confidential, I've been involved with the Safra Stablecoin project—a private initiative focused on stablecoins. My main interest has been to understand the underlying data behaviors and patterns within stablecoin ecosystems, which inform better architecture and risk controls in blockchain-based financial products.
-
 
 ## :flying_saucer:  Aerial Mobility
 
-During my time at Flapper (the largest private aviation marketplace in Latin America), I focused on data analysis and operational insights, utilizing tools such as Mapbox and Dec.gl. My work included analyzing charter flight requests and identifying trends.
+During my time at Flapper (the largest private aviation marketplace in Latin America), I focused on data analysis and operational insights, utilizing tools such as Mapbox and Deck.gl. My work included analyzing charter flight requests and identifying trends.
 
 ![Flapper quotations evolution](/images/quotations.png)
 
