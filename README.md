@@ -13,7 +13,7 @@ As part of my blockchain development learning at Alchemy University, I'm working
 
 ## :robot: Google AI Agent
 
-Inspired by Google's AI courses, this project is an attempt to implement an agent that leverages Google AI tools to help solve payment dispute problems. It's an ongoing exploration at the intersection of AI and fintech.
+Inspired by Google's AI courses, [this project](https://github.com/avirzin/arbitra.git) is an attempt to implement an agent that leverages Google AI tools to help solve payment dispute problems. It's an ongoing exploration at the intersection of AI and fintech.
 
 ## :art: One-pager websites
 
@@ -21,19 +21,27 @@ I also maintain a couple of basic static websites hosted on S3 Buckets, showcasi
 
 <table>
   <tr>
-    <td><img src="./images/sc_virzin.png" alt="Virzin website" width="400"/></td>
-    <td><img src="./images/sc_mansarda.png" alt="Virzin website" width="400"/></td>
+    <td>
+      <a href="https://github.com/avirzin/virzin" target="_blank">
+        <img src="./images/sc_virzin.png" alt="Virzin website" width="400"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/avirzin/mansarda" target="_blank">
+        <img src="./images/sc_mansarda.png" alt="Mansarda website" width="400"/>
+      </a>
+    </td>
   </tr>
 </table>
 
 
 ## :chart_with_upwards_trend: Studying Quantitative Trading
 
-I'm revisiting my knowledge of mathematics and quantitative finance by following a comprehensive Udemy course on quantitative trading. This helps me understand modern trading techniques and financial modeling.
+I'm revisiting my [knowledge of mathematics and quantitative finance](https://github.com/avirzin/becoming_quant) by following a comprehensive Udemy course on quantitative trading. This helps me understand modern trading techniques and financial modeling.
 
 ## :moneybag: Rampart Capital
 
-I'm also experimenting with different investment strategies and portfolio management as part of the Rampart Capital initiative. This project is focused on hands-on experience with investments and learning through practical application.
+I'm also experimenting with different investment strategies and portfolio management as part of the Rampart Capital initiative. This project is focused on hands-on experience with investments and learning through practical application. It is private, but the [one-pager is available here](https://github.com/avirzin/rampart-website).
 
 
 ## :flying_saucer:  Aerial Mobility
