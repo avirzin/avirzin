@@ -43,6 +43,17 @@ I'm revisiting my [knowledge of mathematics and quantitative finance](https://gi
 
 I'm also experimenting with different investment strategies and portfolio management as part of the Rampart Capital initiative. This project is focused on hands-on experience with investments and learning through practical application. It is private, but the [one-pager is available here](https://github.com/avirzin/rampart-website).
 
+## :gem: UNIT Fractal Monetary Ecosystem
+
+<img src="./images/unit_logo.png" alt="UNIT logo" width="50"/>
+
+
+[The UNIT project](https://unitfoundation.org/), proposed by the Unit Foundation, introduces a fractal monetary ecosystem designed to facilitate cross-border trade and settlements without relying on a single national currency.
+
+According to publicly available materials published by the Unit Foundation, UNIT is conceived as a gold-anchored global unit of account whose value is referenced to a basket of assets measured in gold terms. Each UNIT token represents a proportional share of a reserve basket that includes at least 40% gold, with the remainder composed of fiat currencies that are freely convertible into gold.
+
+My current activities involve conducting hypothesis testing to assess the coherence of the core UNIT design assumptions—fractal reserve replication, gold-anchored pricing, and decentralized minting—under realistic operational scenarios, as well as modeling ecosystem behavior under stress conditions.
+
 
 ## :flying_saucer:  Aerial Mobility
 
