@@ -22,12 +22,12 @@ I also maintain a couple of basic static websites hosted on S3 Buckets, showcasi
 <table>
   <tr>
     <td>
-      <a href="https://github.com/avirzin/virzin" target="_blank">
+      <a href="https://www.virzin.me" target="_blank">
         <img src="./images/sc_virzin.png" alt="Virzin website" width="400"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/avirzin/mansarda" target="_blank">
+      <a href="https://www.mansarda.art.br" target="_blank">
         <img src="./images/sc_mansarda.png" alt="Mansarda website" width="400"/>
       </a>
     </td>
