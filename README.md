@@ -39,10 +39,6 @@ I also maintain a couple of basic static websites hosted on S3 Buckets, showcasi
 
 I'm revisiting my [knowledge of mathematics and quantitative finance](https://github.com/avirzin/becoming_quant) by following a comprehensive Udemy course on quantitative trading. This helps me understand modern trading techniques and financial modeling.
 
-## :moneybag: Rampart Capital
-
-I'm also experimenting with different investment strategies and portfolio management as part of the Rampart Capital initiative. This project is focused on hands-on experience with investments and learning through practical application. It is private, but the [one-pager is available here](https://github.com/avirzin/rampart-website).
-
 ## :gem: UNIT Fractal Monetary Ecosystem
 
 <img src="./images/unit_logo.png" alt="UNIT logo" width="50"/>
