@@ -39,18 +39,6 @@ I also maintain a couple of basic static websites hosted on S3 Buckets, showcasi
 
 I'm revisiting my [knowledge of mathematics and quantitative finance](https://github.com/avirzin/becoming_quant) by following a comprehensive Udemy course on quantitative trading. This helps me understand modern trading techniques and financial modeling.
 
-## :gem: UNIT Fractal Monetary Ecosystem
-
-<img src="./images/unit_logo.png" alt="UNIT logo" width="50"/>
-
-
-[The UNIT project](https://unitfoundation.org/), proposed by the Unit Foundation, introduces a fractal monetary ecosystem designed to facilitate cross-border trade and settlements without relying on a single national currency.
-
-According to publicly available materials published by the Unit Foundation, UNIT is conceived as a gold-anchored global unit of account whose value is referenced to a basket of assets measured in gold terms. Each UNIT token represents a proportional share of a reserve basket that includes at least 40% gold, with the remainder composed of fiat currencies that are freely convertible into gold.
-
-My current activities involve conducting hypothesis testing to assess the coherence of the core UNIT design assumptions—fractal reserve replication, gold-anchored pricing, and decentralized minting—under realistic operational scenarios, as well as modeling ecosystem behavior under stress conditions.
-
-
 ## :flying_saucer:  Aerial Mobility
 
 During my time at Flapper (the largest private aviation marketplace in Latin America), I focused on data analysis and operational insights, utilizing tools such as Mapbox and Deck.gl. My work included analyzing charter flight requests and identifying trends.
