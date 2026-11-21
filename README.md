@@ -7,17 +7,22 @@ Although my current role revolves around analyzing and specifying products as we
 It is important to note that several of my repositories are private due to the sensitive nature of the data and intellectual property involved. As such, some projects are referenced in this document solely for illustrative purposes and cannot be shared publicly.
 
 
-## :test_tube: Alchemy University Final Project
+## :scales: RegTeia
 
-As part of my blockchain development learning at Alchemy University, I'm working on a [conclusion project](https://github.com/avirzin/Rendex) demonstrating how investments could work in Web3 using an Oracle for real-world data. This is giving me hands-on experience with smart contracts and decentralized applications.
+[RegTeia](https://github.com/avirzin/regteia) turns Brazilian financial regulation (about 63,000 BCB, CMN and CVM norms) into a local graph. It shows which norm amends or revokes which, down to the article, and what was in force on any given date. You can explore it in the browser or ask an AI assistant through its MCP server.
 
-## :robot: Google AI Agent
+<img src="https://raw.githubusercontent.com/avirzin/regteia/main/images/sc01.png" alt="RegTeia overview graph" width="800"/>
 
-Inspired by Google's AI courses, [this project](https://github.com/avirzin/arbitra.git) is an attempt to implement an agent that leverages Google AI tools to help solve payment dispute problems. It's an ongoing exploration at the intersection of AI and fintech.
+## :test_tube: Rendex
+
+[Rendex](https://github.com/avirzin/Rendex) is my capstone project for Alchemy University. It's a rebasing ERC-20 token on Sepolia whose balance grows daily with the CDI, which an oracle fetches from the Brazilian Central Bank.
+
+[![Rendex Project - Alchermy University](./images/rendex_alchemy.png)](https://www.alchemy.com/university/projects/rendex-evm-chain-certificate)
+
 
 ## :art: One-pager websites
 
-I also maintain a couple of basic static websites hosted on S3 Buckets, showcasing some of our projects and serving as a public-facing portfolio.
+I also maintain a couple of basic static websites hosted on S3 buckets, which work as a public-facing portfolio for some of my projects.
 
 <table>
   <tr>
@@ -35,16 +40,12 @@ I also maintain a couple of basic static websites hosted on S3 Buckets, showcasi
 </table>
 
 
-## :chart_with_upwards_trend: Studying Quantitative Trading
-
-I'm revisiting my [knowledge of mathematics and quantitative finance](https://github.com/avirzin/becoming_quant) by following a comprehensive Udemy course on quantitative trading. This helps me understand modern trading techniques and financial modeling.
-
-## :flying_saucer:  Aerial Mobility
+## :flying_saucer: Aerial Mobility
 
 During my time at Flapper (the largest private aviation marketplace in Latin America), I focused on data analysis and operational insights, utilizing tools such as Mapbox and Deck.gl. My work included analyzing charter flight requests and identifying trends.
 
 ![Flapper quotations evolution](/images/quotations.png)
 
-At some point, I've been exploring future eVTOL operations through projects like Hoverfly, which visualizes eVTOL trajectories:
+I have also explored future eVTOL operations through projects like Hoverfly, which visualizes eVTOL trajectories:
 
 ![Hoverfly animation](/images/hoverfly.gif)
