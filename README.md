@@ -30,20 +30,9 @@ It is important to note that several of my repositories are private due to the s
 
 [Rendex](https://github.com/avirzin/Rendex) is my capstone project for Alchemy University. It's a rebasing ERC-20 token on Sepolia whose balance grows daily with the CDI, which an oracle fetches from the Brazilian Central Bank.
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.alchemy.com/university/projects/rendex-evm-chain-certificate" target="_blank">
-        <img src="./images/alchemy01.png" alt="Rendex Project - Alchemy University 1" width="400"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.alchemy.com/university/projects/rendex-evm-chain-certificate" target="_blank">
-        <img src="./images/alchemy02.png" alt="Rendex Project - Alchemy University 2" width="400"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.alchemy.com/university/projects/rendex-evm-chain-certificate" target="_blank">
+  <img src="./images/alchemy.png" alt="Rendex architecture: CDI oracle, rebasing token and frontend"/>
+</a>
 
 
 ## :briefcase: Creative Business Automation
